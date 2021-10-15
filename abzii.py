@@ -1,1 +1,1 @@
-print("hello michael jackson")
+print("hello michael.jackson")
